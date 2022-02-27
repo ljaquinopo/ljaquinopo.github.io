@@ -1,0 +1,19 @@
+body{
+    background-image: url(../img/wallpaper.jpg);
+    font-family: arial;
+}
+p{
+    font-size: 14px;
+}
+
+.box{
+    background: pink;
+    padding: 50px 50px;
+    margin: 50px;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
